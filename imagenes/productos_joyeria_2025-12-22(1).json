@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "saa",
+    "descripcion": "dsasadds",
+    "imagen": "https://i.imgur.com/ejemplo.jpg",
+    "fecha": "2025-12-22"
+  },
+  {
+    "id": 2,
+    "nombre": "fas",
+    "descripcion": "sf",
+    "imagen": "https://i.imgur.com/fBsUQ7H.png",
+    "fecha": "2025-12-22"
+  }
+]
